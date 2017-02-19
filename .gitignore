@@ -1,0 +1,5 @@
+public
+vendor-manifest.json
+.awcache
+.idea
+node_modules
