@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@frontpack/frontpack-preset-babel@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-babel/-/frontpack-preset-babel-1.0.0.tgz#1831289e728e32834917db8d4237970880bf9f5f"
+"@frontpack/frontpack-preset-babel@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-babel/-/frontpack-preset-babel-1.0.1.tgz#3eb4f79244c2c99989e88e2ccd8bd2183b21ef89"
   dependencies:
     babel-core "^6.24.1"
     babel-loader "^6.4.1"
@@ -12,26 +12,26 @@
     eslint "^3.19.0"
     eslint-loader "^1.7.1"
 
-"@frontpack/frontpack-preset-common@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-common/-/frontpack-preset-common-1.0.0.tgz#8b47759493e484e8da6da8cfd91dc79d874977bc"
+"@frontpack/frontpack-preset-common@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-common/-/frontpack-preset-common-1.0.1.tgz#65018b0e238aadd240b1376623600c0d4ffc3e6f"
   dependencies:
     clean-webpack-plugin "^0.1.16"
     progress-bar-webpack-plugin "^1.9.3"
 
-"@frontpack/frontpack-preset-copy@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-copy/-/frontpack-preset-copy-1.0.0.tgz#63412030310780648afd6984d9d7ca384e47bc39"
+"@frontpack/frontpack-preset-copy@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-copy/-/frontpack-preset-copy-1.0.1.tgz#fd8ad7a30a6062834564797523f8a6c298dde8ec"
   dependencies:
     copy-webpack-plugin "^4.0.1"
 
-"@frontpack/frontpack-preset-dll@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-dll/-/frontpack-preset-dll-1.0.0.tgz#9397e86548256451f2b8824b0a10d026b294b562"
+"@frontpack/frontpack-preset-dll@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-dll/-/frontpack-preset-dll-1.0.1.tgz#d41dc466e0cfd00a837c4fd35eb5c54dfa9e5217"
 
-"@frontpack/frontpack-preset-html@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-html/-/frontpack-preset-html-1.0.0.tgz#8342286c5872df3563769f824622f48c91bc4739"
+"@frontpack/frontpack-preset-html@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-html/-/frontpack-preset-html-1.0.1.tgz#66fba42aacb25f262dd2ca6772f2020732e7d3df"
   dependencies:
     ejs "^2.5.6"
     ejs-compiled-loader "2.2.0"
@@ -39,17 +39,17 @@
     html-webpack-plugin "^2.28.0"
     preload-webpack-plugin "^1.2.2"
 
-"@frontpack/frontpack-preset-server@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-server/-/frontpack-preset-server-1.0.0.tgz#3eb2cebd7e4c197ade8a9f3ca531f0e5c82b3fbd"
+"@frontpack/frontpack-preset-server@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-server/-/frontpack-preset-server-1.0.1.tgz#66ce17cc979e17bb4f2242874d81a225c759df7d"
   dependencies:
     browser-sync "^2.18.8"
     browser-sync-webpack-plugin "^1.1.4"
     connect-history-api-fallback "^1.3.0"
 
-"@frontpack/frontpack-preset-style@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-style/-/frontpack-preset-style-1.0.0.tgz#a3dc486250bc55f6208982dafcd0f7c8b38faed8"
+"@frontpack/frontpack-preset-style@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-style/-/frontpack-preset-style-1.0.1.tgz#e40a9c51420042ce0e62b047c3feeca2e2abf0e8"
   dependencies:
     autoprefixer "^6.7.7"
     css-loader "^0.28.0"
@@ -64,18 +64,18 @@
     stylelint "^7.10.1"
     stylelint-webpack-plugin "0.7.0"
 
-"@frontpack/frontpack-preset-typescript@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-typescript/-/frontpack-preset-typescript-1.0.0.tgz#11df5c145df527c7e900bb79a42dfc61fe44ab08"
+"@frontpack/frontpack-preset-typescript@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@frontpack/frontpack-preset-typescript/-/frontpack-preset-typescript-1.0.1.tgz#ae03aa3a80c31b5f9229661e6678017fdf219ee3"
   dependencies:
     awesome-typescript-loader "^3.1.2"
     tslint "^5.0.0"
     tslint-loader "^3.5.1"
     typescript "^2.2.2"
 
-"@frontpack/frontpack@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@frontpack/frontpack/-/frontpack-1.0.0.tgz#f444a2ea0d4fc9eb1890679031e0320ab91a50cf"
+"@frontpack/frontpack@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@frontpack/frontpack/-/frontpack-1.0.1.tgz#b3ad770bcd485d44c167518c297fb90c0846e745"
   dependencies:
     chalk "1.1.3"
     webpack-loader-options-merge "0.0.3"
